@@ -1,0 +1,10 @@
+streamlit
+PyPDF2
+python-docx
+requests
+beautifulsoup4
+sentence-transformers
+chromadb  # Or your chosen vector database
+openai
+groq
+dotenv
